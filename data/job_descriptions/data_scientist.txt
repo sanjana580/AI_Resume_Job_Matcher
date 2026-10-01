@@ -1,0 +1,30 @@
+Data Scientist
+
+Job Description:
+
+We are looking for a Data Scientist to analyze data and build machine learning models.
+
+Responsibilities:
+- Analyze and preprocess datasets.
+- Build and evaluate machine learning models.
+- Perform data visualization and exploratory data analysis.
+- Work with structured and unstructured data.
+- Develop data-driven solutions for business problems.
+
+Required Skills:
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+- Statistics
+- Data Preprocessing
+- Data Visualization
+
+Preferred Skills:
+- Deep Learning
+- Natural Language Processing
+- TensorFlow
+- PyTorch
